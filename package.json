@@ -1,6 +1,6 @@
 {
   "name": "purezip",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Zip file remove unneeded data",
   "main": "index.js",
   "bin": {
