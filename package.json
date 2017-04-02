@@ -1,0 +1,24 @@
+{
+  "name": "purezip",
+  "version": "0.1.1",
+  "description": "Zip file remove unneeded data",
+  "main": "index.js",
+  "bin": {
+    "purezip": "bin/index.js"
+  },
+  "scripts": {
+    "test": "node . ./test"
+  },
+  "author": {
+    "name": "Eli Yao",
+    "email": "blog@eliyao.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EliYao/PureZip"
+  },
+  "dependencies": {
+    "archiver": "^1.3.0"
+  }
+}
