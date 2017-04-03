@@ -1,6 +1,6 @@
 # PureZip
 
-A zip tool for compress needed files.
+A zip tool for compress needed files, by default PureZip will ingore node_modules and file name start with dot like .gitignore or .git.
 
 ## Install
 
@@ -8,9 +8,11 @@ A zip tool for compress needed files.
 npm install purezip -g
 ```
 ## Usage
-找到需要打包的目录使用 purezip 命令即可。
+Use terminal cd to target package path and run purezip command, after finised log you will get a zip file same name as package name out package. 
 
 ## [Change Log](https://github.com/EliYao/PureZip/blob/master/CHANGELOG.md)
+#### Version 0.1.3 (2 April 2017)
+* improve doc and change all file type to LF.
 #### Version 0.1.0 (2 April 2017)
 * release 0.1.0
 
