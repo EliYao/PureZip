@@ -11,7 +11,7 @@ npm install purezip -g
 Use terminal cd to target package path and run purezip command, after finised log you will get a zip file same name as package name out package. 
 
 ## [Change Log](https://github.com/EliYao/PureZip/blob/master/CHANGELOG.md)
-#### Version 0.1.3 (2 April 2017)
+#### Version 0.1.3 (3 April 2017)
 * improve doc and change all file type to LF.
 
 #### Version 0.1.0 (2 April 2017)
